@@ -1,5 +1,5 @@
 #Banking Stimulator
-#author: Sehajleen Kaur
+#author: Sehaj
 
 #ask the user for basic name and contact information
 name= input("FIRST NAME: ")
